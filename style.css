@@ -1,0 +1,20 @@
+style.css
+body {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+table {
+width: 100%;
+border-collapse: collapse;
+background-color: rgb(120, 218, 248);
+}
+th, td {
+padding: 8px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+}
+th { 
+background-color: rgb(119, 209, 236);
+
+}
